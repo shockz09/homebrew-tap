@@ -13,4 +13,5 @@ brew install --cask typingstats
 
 | Cask | Description |
 |------|-------------|
-| `typingstats` | Minimal macOS menubar app that tracks daily keystrokes with iCloud sync |
+| `tapped` | Minimal macOS menubar app that tracks daily keystrokes with iCloud sync |
+| `typingstats` | Alias for tapped |
