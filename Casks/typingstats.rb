@@ -1,6 +1,6 @@
 cask "typingstats" do
-  version "1.1.0"
-  sha256 "adf4e67df69270d6335a343e9e830def9384bfff77f9bc99a3ff8462fe9c1604"
+  version "1.2.0"
+  sha256 "c0b07954a8fc0c4aa8fcfaa4d5388b2b1ea35c3fa965763a4ccf0377a98d3b76"
 
   url "https://github.com/shockz09/TypingStats/releases/download/v#{version}/TypingStats-v#{version}.zip"
   name "TypingStats"
